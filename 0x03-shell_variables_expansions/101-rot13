@@ -1,2 +1,2 @@
 #!/bin/bash
-tr {Aa..Mm} {Nn..Zz}
+tr {Aa..Mm}{Nn..Zz}
